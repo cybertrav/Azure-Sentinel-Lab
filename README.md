@@ -1,1 +1,1 @@
-# AzureSentinelLab
+# Azure-Sentinel-Lab
